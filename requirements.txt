@@ -1,0 +1,15 @@
+tensorboard
+trimesh
+point-cloud-utils
+tqdm
+pymeshlab
+libigl
+pykdtree
+joblib
+pandas
+XlsxWriter
+opencv-python-headless
+beautifulsoup4
+lxml
+scikit-image
+matplotlib
