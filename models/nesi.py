@@ -4,7 +4,6 @@ import torch.nn as nn
 from models.mlp import MLP
 from models.hf_net import HFNet
 from scipy.spatial.transform import Rotation as R
-from utils.base_alg import get_best_projections
 
 class NESI(nn.Module):
     def __init__(
